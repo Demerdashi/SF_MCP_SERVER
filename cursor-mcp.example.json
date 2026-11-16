@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "salesforce-bridge": {
+      "command": "D:/MCP/SalesForce/.venv/Scripts/python.exe",
+      "args": ["-m", "salesforce_mcp_bridge"],
+      "cwd": "D:/MCP/SalesForce",
+      "env": {
+        "SF_CLIENT_ID": "<consumer-key>",
+        "SF_LOGIN_HOST": "https://orgfarm-fdac062492-dev-ed.develop.my.salesforce.com",
+        "SF_MCP_URL": "https://api.salesforce.com/platform/mcp/v1/platform/sobject-all",
+        "SF_REDIRECT_URI": "http://localhost:8765/callback",
+        "SF_MCP_SANDBOX": "false"
+      }
+    }
+  }
+}
