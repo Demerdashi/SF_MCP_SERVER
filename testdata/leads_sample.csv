@@ -1,0 +1,21 @@
+FirstName,LastName,Company,Title,Email,Phone,LeadSource,Status,Industry,City,StateCode,CountryCode,Website,Description
+Ava,Nguyen,Northwind Labs,Marketing Manager,ava.nguyen+mcp1@example.com,555-0101,Web,Open - Not Contacted,Technology,Austin,TX,US,https://northwindlabs.example,MCP bridge test lead 1
+Noah,Patel,Blue Harbor Retail,VP Sales,noah.patel+mcp2@example.com,555-0102,Phone Inquiry,Open - Not Contacted,Retail,Chicago,IL,US,https://blueharbor.example,MCP bridge test lead 2
+Mia,Santos,Cedar Peak Software,Product Owner,mia.santos+mcp3@example.com,555-0103,Partner Referral,Working - Contacted,Technology,Seattle,WA,US,https://cedarpeak.example,MCP bridge test lead 3
+Liam,Okoro,Summit Field Services,Operations Lead,liam.okoro+mcp4@example.com,555-0104,Other,Open - Not Contacted,Construction,Denver,CO,US,https://summitfield.example,MCP bridge test lead 4
+Emma,Richter,Harbor & Co.,Buyer,emma.richter+mcp5@example.com,555-0105,Web,Open - Not Contacted,Apparel,Boston,MA,US,https://harborco.example,MCP bridge test lead 5
+Omar,Hassan,Desert Bloom Foods,Sales Director,omar.hassan+mcp6@example.com,555-0106,Web,Open - Not Contacted,Food & Beverage,Phoenix,AZ,US,https://desertbloom.example,MCP bridge test lead 6
+Sofia,Almeida,Riverstone Health,Clinic Manager,sofia.almeida+mcp7@example.com,555-0107,Phone Inquiry,Working - Contacted,Healthcare,Miami,FL,US,https://riverstonehealth.example,MCP bridge test lead 7
+Ethan,Brooks,PixelForge Media,Creative Director,ethan.brooks+mcp8@example.com,555-0108,Partner Referral,Open - Not Contacted,Media,Los Angeles,CA,US,https://pixelforge.example,MCP bridge test lead 8
+Priya,Sharma,Lotus Fintech,CFO,priya.sharma+mcp9@example.com,555-0109,Web,Open - Not Contacted,Finance,New York,NY,US,https://lotusfintech.example,MCP bridge test lead 9
+Carlos,Mendez,GreenGrid Energy,Project Engineer,carlos.mendez+mcp10@example.com,555-0110,Other,Open - Not Contacted,Energy,Houston,TX,US,https://greengrid.example,MCP bridge test lead 10
+Hannah,Kim,BrightPath EdTech,Head of Partnerships,hannah.kim+mcp11@example.com,555-0111,Web,Working - Contacted,Education,Portland,OR,US,https://brightpath.example,MCP bridge test lead 11
+Jonas,Berg,Nordic Cloud AB,Solutions Architect,jonas.berg+mcp12@example.com,555-0112,Phone Inquiry,Open - Not Contacted,Technology,Minneapolis,MN,US,https://nordiccloud.example,MCP bridge test lead 12
+Fatima,Zahra,Atlas Logistics,Procurement Lead,fatima.zahra+mcp13@example.com,555-0113,Partner Referral,Open - Not Contacted,Transportation,Atlanta,GA,US,https://atlaslogistics.example,MCP bridge test lead 13
+Marcus,Lee,Ironclad Security,Account Executive,marcus.lee+mcp14@example.com,555-0114,Web,Open - Not Contacted,Security,San Jose,CA,US,https://ironcladsec.example,MCP bridge test lead 14
+Chloe,Dubois,Maison Analytics,Data Lead,chloe.dubois+mcp15@example.com,555-0115,Other,Working - Contacted,Technology,San Francisco,CA,US,https://maisonanalytics.example,MCP bridge test lead 15
+Diego,Vargas,Campo Fresh Produce,Owner,diego.vargas+mcp16@example.com,555-0116,Web,Open - Not Contacted,Agriculture,Fresno,CA,US,https://campofresh.example,MCP bridge test lead 16
+Amira,Nasser,Oasis Travel Group,Travel Consultant,amira.nasser+mcp17@example.com,555-0117,Phone Inquiry,Open - Not Contacted,Travel,Orlando,FL,US,https://oasistravel.example,MCP bridge test lead 17
+Ben,Carter,Stackline Robotics,CTO,ben.carter+mcp18@example.com,555-0118,Partner Referral,Open - Not Contacted,Manufacturing,Detroit,MI,US,https://stackline.example,MCP bridge test lead 18
+Yuki,Tanaka,Sakura Mobility,Product Manager,yuki.tanaka+mcp19@example.com,555-0119,Web,Working - Contacted,Automotive,San Diego,CA,US,https://sakuramobility.example,MCP bridge test lead 19
+Grace,Okonkwo,Unity Nonprofit Hub,Development Director,grace.okonkwo+mcp20@example.com,555-0120,Other,Open - Not Contacted,Non-Profit,Philadelphia,PA,US,https://unityhub.example,MCP bridge test lead 20
